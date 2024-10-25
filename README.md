@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack Software Developer and Data Scientist
 ------------------------------------------------
 
-I am a skilled full stack software engineer with over 7 years of experience working in the tech industry. I also have 3 years of research experience in data science with a master's degree in Mathematics.
+I am a skilled Full-Stack Software Engineer with over 8 years of experience working in the tech industry. I also have 3 years of research experience in data science with a master's degree in Mathematics.
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm currently based in the United Kingdom
 * ✉️  You can contact me at [ashesrc@gmail.com](mailto:ashesrc@gmail.com)
 * 🧠  I'm learning MS Azure fundamentals
 * 🤝  I'm open to collaborating on Data Science Projects
